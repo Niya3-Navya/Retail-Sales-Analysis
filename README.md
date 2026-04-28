@@ -68,13 +68,13 @@ Retail-Sales-Analysis/
 
 🚀 Getting Started
 1. Clone the repository
-bashgit clone https://github.com/Niya3-Navya/superstore-sales-analysis.git
+git clone https://github.com/Niya3-Navya/Retail-Sales-Analysis.git
 cd superstore-sales-analysis
 2. Install dependencies
 pip install pandas numpy matplotlib seaborn plotly statsmodels jupyter
 3. Run the notebooks
 Open Jupyter and run notebooks in order (01 → 04).
-bashjupyter notebook
+jupyter notebook
 
 📈 Sample Visualizations
 
